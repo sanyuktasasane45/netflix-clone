@@ -19,9 +19,10 @@ Welcome to the **Netflix Clone** project! This project is a front-end web applic
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
 
+
 ## Screenshots
-- ![Homepage](https://your-image-link.com/homepage.png)
-- ![Movie Details](https://your-image-link.com/movie-details.png)
+![Screenshot 2025-01-04 144640](https://github.com/user-attachments/assets/0688253a-c0e1-48af-95b2-83b8e3f7e13b)
+
 
 ## Future Enhancements
 - Implement user profile management.
