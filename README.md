@@ -22,6 +22,7 @@ Welcome to the **Netflix Clone** project! This project is a front-end web applic
 
 ## Screenshots
 ![Screenshot 2025-01-04 144640](https://github.com/user-attachments/assets/0688253a-c0e1-48af-95b2-83b8e3f7e13b)
+![Screenshot 2025-01-04 144707](https://github.com/user-attachments/assets/b3dc6c8b-58a7-476b-8644-7dd433e3338a)
 
 
 ## Future Enhancements
